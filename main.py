@@ -5,6 +5,7 @@ from tempfile import NamedTemporaryFile
 import csv
 import webbrowser
 import shutil
+import sys
 
 
 def getUserInput(minDate, maxDate):
